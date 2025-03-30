@@ -12,7 +12,6 @@ public class Epic extends Task {
         super(id, name, description, status);
     }
 
-
     @Override
     public String toString() {
         String str = "Epic{";

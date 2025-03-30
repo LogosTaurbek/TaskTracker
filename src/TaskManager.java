@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 
 public class TaskManager {
-    //ArrayList<Task> tasks = new ArrayList<>();
+
     int taskId = 0;
     HashMap<Integer, Task> tasks;
     HashMap<Integer, Subtask> subtasks;
